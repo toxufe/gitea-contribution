@@ -1,0 +1,22 @@
+{
+  "name": "gittea-contribution-heatmap",
+  "version": "1.0.0",
+  "description": "轻量级的 Node.js 脚本，用于连接自部署 Gittea 实例，获取用户贡献数据并生成热力图",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "gittea",
+    "gitea",
+    "contribution",
+    "heatmap",
+    "visualization"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
